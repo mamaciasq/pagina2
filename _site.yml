@@ -1,0 +1,7 @@
+name: "pagina"
+navbar:
+  title: "Prueba 2"
+  left:
+    - text: "Primera página"
+      href: index.html
+output_dir: "docs"
